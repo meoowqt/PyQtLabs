@@ -20,10 +20,14 @@
 ## Примеры работы
 - Запуск приложения
 ![alt text](image/image.png)
+
 - Генерация числа
 ![alt text](image/image-1.png)
+
 - Смена формы (на PNG)
 ![alt text](image/image-2.png)
+
 - Смена формы (без PNG)
 ![alt text](image/image-3.png)
+
 ![alt text](image/image-4.png)
